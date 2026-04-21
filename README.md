@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قلبي نادي في عتمة الليل
+> نار الأشواق دايمًا تميل
+> عيني بتسهر وما فيها حيل
+> بين النجوم نلقى الدليل
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
