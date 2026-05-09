@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ah Ya Alby
+
+This log tracks the cryptographic history and versioning for the song **Ah Ya Alby** (ah-ya-alby).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:13:28.387400 | `v1` | `20ce522e26e1ab2586d4a5d9ab0ee17b7fe668b53d134f69faacb0ac147690e2` | `8efc990461aaab569847c00b28d76f9ce671fbee0244d1b95b7bebe2912ca4a1` | `2026-05-09_ah-ya-alby-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
